@@ -2,9 +2,9 @@
 
 title: Insti Insights
 email: mythreyi.1.618@gmail.com
-description: >- 
+description: >-
   Pensively Distilled
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/insights" # the subpath of your site, e.g. /blog
 url: "https://rmythreyi.github.io/insights/" # the base hostname & protocol for your site, e.g. http://example.com
 
 
@@ -21,4 +21,3 @@ plugins:
 show_excerpts: true
 hide_credits: true
 hide_search: true
-
