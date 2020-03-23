@@ -48,7 +48,10 @@ permalink: /secret_compartment/
 ### Lifestyle Choices
 
 * Night outs are overrated
+* Cycling at midnight, with music
 * It's not the tea that matters, but the company
+* The OAT Experience (as a group)
+* The OAT Experience (as an individual)
 * Talking to everyone about what they like doing (and ignoring the rest)
 * To be, or not to be (late)
 * It's easier to inspire than to defend (spreading MM feels)
