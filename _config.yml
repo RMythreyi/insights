@@ -11,14 +11,14 @@ url: "https://rmythreyi.github.io/insights/" # the base hostname & protocol for 
 
 # Build settings
 markdown: kramdown
-remote_theme: patdryburgh/hitchens
+# remote_theme: patdryburgh/hitchens
 
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
+#  - jekyll-remote-theme
 
 # Other settings
 
 show_excerpts: true
-hide_credits: true
+hide_credits: false
 hide_search: true
