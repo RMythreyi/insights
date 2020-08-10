@@ -26,6 +26,7 @@ permalink: /secret_compartment/
 * Turning up and sticking around - the key ingredients for learning by osmosis
 * The post graduates on campus - each person has a story!
 * The side effects of having a good rapport with professors
+* Applying to graduate school - from GRE/TOEFL to deciding where to go.
 
 ### Internships and Placements
 
