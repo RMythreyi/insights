@@ -4,18 +4,14 @@ title: Insti Insights
 email: mythreyi.1.618@gmail.com
 description: >-
   Pensively distilled.
-baseurl: "/insights" # the subpath of your site, e.g. /blog
-# baseurl: ''
-url: "https://rmythreyi.github.io/insights/" # the base hostname & protocol for your site, e.g. http://example.com
-
+baseurl: "/insights"
+url: "https://rmythreyi.github.io/insights/"
 
 # Build settings
 markdown: kramdown
-# remote_theme: patdryburgh/hitchens
 
 plugins:
   - jekyll-feed
-#  - jekyll-remote-theme
 
 # Other settings
 
